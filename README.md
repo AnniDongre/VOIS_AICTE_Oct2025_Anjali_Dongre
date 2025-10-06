@@ -1,2 +1,2 @@
-# VOIS_AICTE_Oct2025_Anjali_Dongre
+# VOIS_AICTE_Oct2025_AnjaliDongre
 AIRBND Hotel Booking Analysis Project
